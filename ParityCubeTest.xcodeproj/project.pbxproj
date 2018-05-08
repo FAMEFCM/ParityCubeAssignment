@@ -154,8 +154,8 @@
 			isa = PBXFrameworksBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				9893507420A1ADDA00F17B4D /* SLImageView.framework in Frameworks */,
 				41A44C65F33CC7C7BE42412F /* Pods_ParityCubeTest.framework in Frameworks */,
+				9893507420A1ADDA00F17B4D /* SLImageView.framework in Frameworks */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
